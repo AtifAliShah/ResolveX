@@ -1,4 +1,11 @@
 // lib/providers/theme_provider.dart
+// =========================================================================
+// File: app_provider.dart / theme_provider.dart
+// Domain: State Management & Business Logic Layer
+// Description: Manages application reactive states, theme data dynamic updates, 
+//              and decouples front-end widgets from backend logic operations.
+// Architecture: Clean State Management (Provider/Riverpod)
+// =========================================================================
 
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';

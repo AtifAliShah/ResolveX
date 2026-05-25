@@ -1,4 +1,11 @@
 // lib/models/problem_model.dart
+// =========================================================================
+// File: problem_model.dart
+// Domain: Data Layer / Data Architecture
+// Description: Defines the structured schema data object for daily user problems.
+//              Provides secure serialization/deserialization mapping (JSON & Maps).
+// Data Storage: Integrated for Local Persistent Storage (SQLite/Hive)
+// =========================================================================
 
 class ProblemCategory {
   final String id;

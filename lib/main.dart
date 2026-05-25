@@ -1,4 +1,11 @@
 // lib/main.dart
+// =========================================================================
+// Project: ResolveX - Smart Daily Problem Solver Mobile Application
+// File: main.dart
+// Description: Main entry point of the Flutter application. Handles core 
+//              initializations, local storage setups, and bootstrap settings.
+// Author: Atif Ali Shah (Reg: FA23-BAI-004)
+// =========================================================================
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

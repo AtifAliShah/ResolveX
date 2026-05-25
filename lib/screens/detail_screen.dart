@@ -1,4 +1,11 @@
 // lib/screens/detail_screen.dart
+// =========================================================================
+// File: home_screen.dart / detail_screen.dart
+// Domain: Presentation Layer (User Interface)
+// Description: Renders the highly interactive, responsive, and visually modern UI layouts.
+//              Listens directly to application providers to update views seamlessly.
+// Layout Aesthetics: Ultra-modern enhanced dashboard interface styling
+// =========================================================================
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
